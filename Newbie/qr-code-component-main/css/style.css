@@ -8,7 +8,7 @@
 
 body{
     background-color: hsl(212, 45%, 89%);
-    font-size: 15px;
+    font-size: 16px;
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     display: flex;
@@ -38,7 +38,7 @@ body{
 
 .description h1{
     text-align: center;
-    font-size: 20px;
+    font-size: 22px;
     letter-spacing: 0px;
     color: hsl(218, 44%, 22%);
     margin-bottom: 16px;
@@ -53,7 +53,7 @@ body{
 
 /* Footer */
 .attribution { 
-    font-size: 11px; 
+    font-size: 12px; 
     text-align: center;
     position: fixed;
     bottom: 0;
