@@ -52,6 +52,7 @@ This repository contains all the Frontend Mentor challenges I'm tackling to impr
 
 - **Frontend Mentor**: [@AceKahuna](https://www.frontendmentor.io/profile/AceKahuna)
 - **LinkedIn**: [Akoten Eric](https://www.linkedin.com/in/akoten-eric-79855417a/)
+- **X** - [@yourusername](https://x.com/kahunaTukei)
 
 ## 📝 License
 
