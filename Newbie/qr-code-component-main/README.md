@@ -38,7 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 While working on this project, I learned a lot about Flexbox properties and how to use them effectively to center elements on the page. For example, in my body styling, I used properties like `display: flex`, `align-items: center`, and `justify-content: center` to properly center the main container both vertically and horizontally:
 
-
 ```css
 body{
     background-color: hsl(212, 45%, 89%);
