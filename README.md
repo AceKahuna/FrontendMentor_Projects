@@ -30,7 +30,7 @@ This repository contains all the Frontend Mentor challenges I'm tackling to impr
 
 | Challenge | Difficulty | Status | Live Demo |
 |-----------|------------|--------|-----------|
-| QR Code Component |Newbie | Done| |
+| QR Code Component | Newbie | Done | [QR Code Component](https://qr-code-component-iota-topaz.vercel.app/) |
 
 ## 🎨 Design Philosophy
 
