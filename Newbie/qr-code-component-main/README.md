@@ -65,4 +65,4 @@ Next time, I’d like to explore CSS Grid more deeply and see how I can incorpor
 
 - **Frontend Mentor** - [AceKahuna](https://www.frontendmentor.io/profile/AceKahuna)
 - **LinkedIn**: [Akoten Eric](https://www.linkedin.com/in/akoten-eric-79855417a/)
-- **X** - [@yourusername](https://x.com/kahunaTukei)
+- **X** - [@kahunaTukei](https://x.com/kahunaTukei)
